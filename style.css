@@ -1,0 +1,11 @@
+#head{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(39, 39, 219);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
